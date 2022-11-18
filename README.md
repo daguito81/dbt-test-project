@@ -2,6 +2,7 @@
 
 
 ## Using the starter project
+Dago was here
 
 Try running the following commands:
 - dbt run
