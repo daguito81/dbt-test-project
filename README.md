@@ -1,8 +1,9 @@
 # Welcome to your new dbt project!
-
+[Project Code](https://github.com/daguito81/dbt-test-project)
 
 ## Using the starter project
 Dago was here
+
 
 Try running the following commands:
 - dbt run
