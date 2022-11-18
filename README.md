@@ -1,6 +1,5 @@
 # Welcome to your new dbt project!
 
-## Dago Was here!
 
 ## Using the starter project
 
