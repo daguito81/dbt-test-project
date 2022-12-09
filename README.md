@@ -2,8 +2,11 @@
 
 
 ## Using the starter project
-Dago was here
-
+This project was done for Career fitness 2022 at IE  
+[Project Code](https://github.com/daguito81/dbt-test-project)
+```
+cd ~/my-project && python app.py
+```
 
 Try running the following commands:
 - dbt run
